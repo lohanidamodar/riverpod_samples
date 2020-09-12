@@ -15,3 +15,8 @@ A clean simple android launcher application using Flutter
 
 A world time clock using [worldtime free API](http://worldtimeapi.org/).
 
+
+## [Dictionary App](https://github.com/lohanidamodar/fl_dictio)
+
+A dictionary app, with offline history and favorites saving using Hive. It uses [Owlbot.info free API](https://owlbot.info)
+
